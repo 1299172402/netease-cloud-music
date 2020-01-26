@@ -1,6 +1,9 @@
 # 网易云音乐歌曲下载
 
 
+## 发布页请单击[此处](https://github.com/1299172402/netease-cloud-music/releases/tag/1.0)
+
+
 ####### 网易云音乐歌曲下载 #######
 
 
